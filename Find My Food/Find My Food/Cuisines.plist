@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>American</key>
+	<string>newamerican</string>
+	<key>Arabian</key>
+	<string>arabian</string>
+	<key>Asian Fusion</key>
+	<string>asianfusion</string>
+	<key>Brunch</key>
+	<string>breakfast_brunch</string>
+	<key>Burgers</key>
+	<string>burgers</string>
+	<key>Cafes</key>
+	<string>cafes</string>
+	<key>Cajun</key>
+	<string>cajun</string>
+	<key>Caribbean</key>
+	<string>caribbean</string>
+	<key>Chinese</key>
+	<string>chinese</string>
+	<key>Comfort Food</key>
+	<string>comfortfood</string>
+	<key>Cuban</key>
+	<string>cuban</string>
+	<key>Delis</key>
+	<string>delis</string>
+	<key>Diners</key>
+	<string>diners</string>
+	<key>Ethiopian</key>
+	<string>ethiopian</string>
+	<key>Fast Food</key>
+	<string>hotdogs</string>
+	<key>Fondue</key>
+	<string>fondue</string>
+	<key>French</key>
+	<string>french</string>
+	<key>Gastropubs</key>
+	<string>gastropubs</string>
+	<key>German</key>
+	<string>german</string>
+	<key>Gluten-free</key>
+	<string>gluten_free</string>
+	<key>Greek</key>
+	<string>greek</string>
+	<key>Hawaiian</key>
+	<string>hawaiian</string>
+	<key>Indian</key>
+	<string>indpak</string>
+	<key>Italian</key>
+	<string>italian</string>
+	<key>Japanese</key>
+	<string>japanese</string>
+	<key>Korean</key>
+	<string>korean</string>
+	<key>Kosher</key>
+	<string>kosher</string>
+	<key>Latin American</key>
+	<string>latin</string>
+	<key>Mediterranean</key>
+	<string>mediterranean</string>
+	<key>Mexican</key>
+	<string>mexican</string>
+	<key>Middle Eastern</key>
+	<string>mideastern</string>
+	<key>Mongolian</key>
+	<string>mongolian</string>
+	<key>Moroccan</key>
+	<string>moroccan</string>
+	<key>Peruvian</key>
+	<string>peruvian</string>
+	<key>Portuguese</key>
+	<string>portuguese</string>
+	<key>Russian</key>
+	<string>russian</string>
+	<key>Seafood</key>
+	<string>seafood</string>
+	<key>Southern</key>
+	<string>southern</string>
+	<key>Spanish</key>
+	<string>spanish</string>
+	<key>Sushi Bars</key>
+	<string>sushi</string>
+	<key>Taiwanese</key>
+	<string>taiwanese</string>
+	<key>Tapas</key>
+	<string>tapas</string>
+	<key>Tex-Mex</key>
+	<string>tex-mex</string>
+	<key>Thai</key>
+	<string>thai</string>
+	<key>Turkish</key>
+	<string>turkish</string>
+	<key>Vegan</key>
+	<string>vegan</string>
+	<key>Vegetarian</key>
+	<string>vegetarian</string>
+	<key>Vietnamese</key>
+	<string>vietnamese</string>
+</dict>
+</plist>
