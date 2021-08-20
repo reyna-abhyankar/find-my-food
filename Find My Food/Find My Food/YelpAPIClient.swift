@@ -9,13 +9,6 @@
 import Foundation
 import OAuthSwift
 
-struct YelpAPIConsole {
-    var consumerKey = "yp98b_menhGqn5DIh6lTKA"
-    var consumerSecret = "V2KflU0IRbUkv_PyZ10s0syYgrk"
-    var accessToken = "YA59CyCAGxWM75ZdaOYT6suqv4yC4ETj"
-    var accessTokenSecret = "8UrP4sEPJK3bOsfpigsBtcgoHcY"
-}
-
 class YelpAPIClient: NSObject {
     
     let APIBaseUrl = "https://api.yelp.com/v2/"
